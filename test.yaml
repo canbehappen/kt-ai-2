@@ -5,4 +5,4 @@ test:  # test images (optional)
 
 # Classes
 nc: 3  # number of classes
-names: ['person', 'vehicle', 'load sign']  # class names
+names: ['load_sign', 'person', 'vehicle']  # class names
